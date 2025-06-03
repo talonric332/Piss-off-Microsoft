@@ -1,0 +1,25 @@
+!
+! Title: Adult Content Domains Blocklist
+! Description: Blocks adult content domains for DNS filtering systems.
+! Version: 1.0.0
+! License: Public Domain / CC0
+! Last updated: 2025-06-03
+! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
+!
+||pornhub.com^
+||xvideos.com^
+||xnxx.com^
+||redtube.com^
+||youporn.com^
+||xhamster.com^
+||spankbang.com^
+||fapello.com^
+||rule34.xxx^
+||onlyfans.com^
+||erome.com^
+||brazzers.com^
+||mofos.com^
+||bangbros.com^
+||nudogram.com^
+||camwhores.tv^
+||cam4.com^
