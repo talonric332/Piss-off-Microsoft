@@ -1,0 +1,48 @@
+! Title: Slimmed Microsoft Telemetry Blocklist
+! Description: Blocks Microsoft Copilot, Bing AI, and telemetry services without breaking Office app functionality.
+! Homepage: https://github.com/talonric332/Piss-off-Microsoft
+! License: CC0 / Public Domain
+! Last updated: 2025-06-03
+! Author: talonric332
+! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
+
+||telemetry.microsoft.com^
+||telemetry.urs.microsoft.com^
+||telemetry.visualstudio.microsoft.com^
+||vortex.data.microsoft.com^
+||vortex-win.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||ads.microsoft.com^
+||bat.bing.com^
+||c.bing.com^
+||copilot.microsoft.com^
+||copilot-api.microsoft.com^
+||copilot.office.com^
+||copilot.microsoft365.com^
+||copilot.microsoft365.net^
+||gpt.office.com^
+||www.bing.com/images/create^
+||www.bing.com/search?q=Bing+AI^
+||www.bing.com/search?q=Copilot^
+||msftcopilot.com^
+||copilotcdn.microsoft.com^
+||applicationinsights.azure.com^
+||dc.services.visualstudio.com^
+||pipe.aria.microsoft.com^
+||analytics.live.com^
+||rad.live.com^
+||ssw.live.com^
+||watson.live.com^
+||clarity.microsoft.com^
+||events.data.microsoft.com^
+||arc.msn.com^
+||ads.msn.com^
+||adsyndication.msn.com^
+||analytics.msn.com^
+
+! Allowed: Keep these to ensure core Office apps and licensing remain functional
+@@||officeapps.live.com^
+@@||nexus.officeapps.live.com^
+@@||settings.office.com^
+@@||login.microsoftonline.com^
+@@||outlook.office365.com^
