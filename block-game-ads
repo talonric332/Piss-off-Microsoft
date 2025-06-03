@@ -1,0 +1,38 @@
+! Title: Mobile Game Ad Network Blocklist
+! Description: Blocks ad networks used specifically by mobile games (Unity Ads, AppLovin, Vungle, Chartboost, IronSource, etc.)
+! Homepage: https://github.com/talonric332/Piss-off-Microsoft
+! License: CC0 / Public Domain
+! Last updated: 2025-06-03
+! Author: talonric332
+! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
+
+||ads.mopub.com^
+||ads.nexage.com^
+||adcolony.com^
+||api.adcolony.com^
+||vungle.com^
+||api.vungle.com^
+||chartboost.com^
+||live.chartboost.com^
+||inmobi.com^
+||sdk.inmobi.com^
+||applovin.com^
+||d.applovin.com^
+||ms.applovin.com^
+||unityads.unity3d.com^
+||ads.prd.ie.unityads.unity3d.com^
+||tapjoy.com^
+||api.tapjoy.com^
+||startappservice.com^
+||ads.startappservice.com^
+||appnext.com^
+||ads.appnext.com^
+||mobvista.com^
+||mobvista.ai^
+||flurry.com^
+||data.flurry.com^
+||ads.flurry.com^
+||ironsrc.com^
+||sonic-us.supersonicads.com^
+||supersonicads.com^
+||adtilt.com^
