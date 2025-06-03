@@ -7,5 +7,26 @@
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and any DNS/adblock filter system.
 ! Note: This version blocks for all clients. If you're using Tailscale/VPNs, use a separate list with $client=127.0.0.1 rules.
 
-
-
+||bing.com^
+||api.bing.com^
+||ssl.bing.com^
+||c.bing.com^
+||www.bing.com^
+||www.bing.com/images/create^
+||www.bing.com/search?q=Bing+AI^
+||www.bing.com/search?q=Copilot^
+||nexus.officeapps.live.com^
+||customsearch.ai^
+||bat.bing.com^
+||arc-ring.msedge.net^
+||settings-win.data.microsoft.com^
+||copilot.microsoft.com^
+||copilot-api.microsoft.com^
+||copilot.office.com^
+||copilot.microsoft365.com^
+||copilot.microsoft365.net^
+||gpt.office.com^
+||copilotcdn.microsoft.com^
+||msftcopilot.com^
+||arc.msn.com^
+||assets.msn.com^
