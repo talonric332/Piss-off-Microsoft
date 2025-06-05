@@ -79,8 +79,6 @@
 ||samsungus.tt.omtrdc.net^
 ||samsungtv-d.openx.net^
 ||zn8qwjgdslpyjq5n3-samsungcustomerboard.siteintercept.qualtrics.com^
-||zn9xowqszdbqtbfwx-seasamsung.siteintercept.qualtrics.com^
-||znewylzpqds1jt1sh-samsunggdc.siteintercept.qualtrics.com^
 ||znexudtrhw0nwrmga-seasamsung.siteintercept.qualtrics.com^
 ||zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com^
 ||samsungacr.com^
@@ -129,8 +127,6 @@
 ||samsungr.com^
 ||samsungrm.com^
 ||test.samsungrm.net^
-||sspapi-prd.samsungrs.com^
-||matomo.samsungsdibs.at^
 ||lp.mkt-email.samsungsds.com^
 ||tracking.mkt-email.samsungsds.com^
 ||samsungtvads.com^
