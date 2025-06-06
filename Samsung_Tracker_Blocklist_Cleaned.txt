@@ -164,3 +164,5 @@
 ||samsungusa.api.useinsider.com^
 ||samsungvn.api.useinsider.com^
 ||h4g3z1-native.samsung.web.app^
+||metrics.samsung.com^
+||stats.samsung.com^

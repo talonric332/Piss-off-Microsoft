@@ -20,6 +20,7 @@
 ||bat.bing.com^
 ||arc-ring.msedge.net^
 ||settings-win.data.microsoft.com^
+||g.live.com^
 ||copilot.microsoft.com^
 ||copilot-api.microsoft.com^
 ||copilot.office.com^

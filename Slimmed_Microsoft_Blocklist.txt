@@ -21,6 +21,8 @@
 ||watson.live.com^
 ||clarity.microsoft.com^
 ||events.data.microsoft.com^
+||v10.events.data.microsoft.com^
+||prism.app.microsoft.com^
 ||ads.msn.com^
 ||adsyndication.msn.com^
 ||analytics.msn.com^
