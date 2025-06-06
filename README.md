@@ -17,3 +17,11 @@ Below is a brief description of each list provided in this repository and what i
 - **Google_Gemini_Blocklist.txt** – Blocks Google Gemini (formerly Bard) AI endpoints and related services.
 - **Meta_Allowlist.txt** – Whitelist rules to permit Facebook domains when using these blocklists.
 - **Home_Automation_Allowlist.txt** – Whitelist rules to keep Lennox, Ring, Nest, and TP-Link services accessible.
+
+## Using These Lists
+Copy the raw text of any blocklist into your ad blocker of choice. Most folks just paste it into AdGuard Home, Pi-hole, or uBlock Origin. Update regularly—Microsoft has a habit of spawning new endpoints like rabbits.
+
+## Why So Serious?
+Sure, the repo name is a bit cheeky, but the goal is simple: reclaim a little privacy. If our lists help you out and make you chuckle, that's a win-win.
+
+For a friendly overview, check out [index.md](./index.md).
