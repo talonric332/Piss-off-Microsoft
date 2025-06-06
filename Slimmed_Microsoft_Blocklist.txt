@@ -26,6 +26,14 @@
 ||ads.msn.com^
 ||adsyndication.msn.com^
 ||analytics.msn.com^
+||telemetry.appex.bing.net^
+||bingads.microsoft.com^
+||nexusrules.officeapps.live.com^
+||alpha.telemetry.microsoft.com^
+||oca.telemetry.microsoft.com^
+||ca.telemetry.microsoft.com^
+||sqm.telemetry.microsoft.com^
+||sqm.df.telemetry.microsoft.com^
 
 ! Allowed: Keep these to ensure core Office apps and licensing remain functional
 @@||officeapps.live.com^

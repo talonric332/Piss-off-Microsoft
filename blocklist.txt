@@ -31,3 +31,16 @@
 ||msftcopilot.com^
 ||arc.msn.com^
 ||assets.msn.com^
+||telemetry.appex.bing.net^
+||bingads.microsoft.com^
+||nexusrules.officeapps.live.com^
+||alpha.telemetry.microsoft.com^
+||oca.telemetry.microsoft.com^
+||ca.telemetry.microsoft.com^
+||sqm.telemetry.microsoft.com^
+||sqm.df.telemetry.microsoft.com^
+||reports.wes.df.telemetry.microsoft.com^
+||services.wes.df.telemetry.microsoft.com^
+||ads1.msads.net^
+||ads2.msads.net^
+||adnxs.com^
