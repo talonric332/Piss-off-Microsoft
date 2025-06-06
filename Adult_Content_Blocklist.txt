@@ -1,4 +1,3 @@
-!
 ! Title: Adult Content Domains Blocklist
 ! Description: Blocks adult content domains for DNS filtering systems.
 ! Version: 1.0.0
