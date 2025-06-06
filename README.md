@@ -16,4 +16,4 @@ Below is a brief description of each list provided in this repository and what i
 - **Adult_Content_Blocklist.txt** – Blocks popular adult content domains.
 - **Google_Gemini_Blocklist.txt** – Blocks Google Gemini (formerly Bard) AI endpoints and related services.
 - **Meta_Allowlist.txt** – Whitelist rules to permit Facebook domains when using these blocklists.
-- **Home_Automation_Allowlist.txt** – Whitelist rules to keep Lennox, Ring,  Nest, and TP-Link services accessible.
+- **Home_Automation_Allowlist.txt** – Whitelist rules to keep Lennox, Ring, Nest, and TP-Link services accessible.
