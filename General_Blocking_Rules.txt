@@ -2,7 +2,7 @@
 ! Description: Blocks common tracking and analytics domains that typically do not affect essential functionality.
 ! Version: 1.0.0
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-03
+! Last updated: 2025-06-06
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
 ||logs.netflix.com^
@@ -26,3 +26,14 @@
 ||ppcprotect.com^$third-party
 ||ravelin.net^$third-party
 ||simility.com^$third-party
+||pagead2.googlesyndication.com^
+||securepubads.g.doubleclick.net^
+||googletagmanager.com^
+||googletagservices.com^
+||adservice.google.com^
+||googleadservices.com^
+||www.googleadservices.com^
+||analytics.twitter.com^
+||px.ads.linkedin.com^
+||stats.wp.com^
+||pixel.wp.com^
