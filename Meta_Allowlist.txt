@@ -1,5 +1,5 @@
 ! Title: Meta Allowlist
-! Description: Whitelist rules to permit Facebook domains when using these blocklists.
+! Description: Because sometimes you really do need to check those cat photos.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
 ! Last updated: 2025-06-07

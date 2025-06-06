@@ -1,5 +1,5 @@
 ! Title: General Blocking Rules
-! Description: Blocks common tracking and analytics domains that typically do not affect essential functionality.
+! Description: Sweeps away generic trackers nobody asked for.
 ! Version: 1.0.0
 ! License: CC0 / Public Domain
 ! Last updated: 2025-06-07

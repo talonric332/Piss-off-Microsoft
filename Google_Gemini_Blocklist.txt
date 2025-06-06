@@ -1,5 +1,5 @@
 ! Title: BLOCK Google Gemini
-! Description: Blocks Google Gemini (formerly Bard), generative AI endpoints, and assistant APIs used for AI features.
+! Description: Keeps Gemini from whispering AI secrets behind your back.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
 ! Last updated: 2025-06-07
