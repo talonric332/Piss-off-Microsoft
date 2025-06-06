@@ -15,5 +15,5 @@ Below is a brief description of each list provided in this repository and what i
 - **Mobile_Game_Ads_Blocklist.txt** – Blocks common mobile game ad networks such as Unity Ads, AppLovin, and Vungle.
 - **Adult_Content_Blocklist.txt** – Blocks popular adult content domains.
 - **Google_Gemini_Blocklist.txt** – Blocks Google Gemini (formerly Bard) AI endpoints and related services.
-- **Facebook_Allowlist.txt** – Whitelist rules to permit Facebook domains when using these blocklists.
-- **Lennox_and_Ring_Allowlist.txt** – Whitelist rules to keep Lennox thermostat and Ring services accessible.
+- **Meta_Allowlist.txt** – Whitelist rules to permit Facebook domains when using these blocklists.
+- **Home_Automation_Allowlist.txt** – Whitelist rules to keep Lennox, Ring,  Nest, and TP-Link services accessible.
