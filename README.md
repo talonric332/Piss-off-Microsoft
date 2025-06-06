@@ -8,15 +8,15 @@ Luckless merges and maintains host-based blocklists aimed at shutting off Micros
 
 Below is a brief description of each list provided in this repository and what it is used for.
 
-- **Microsoft_Tracking_Blocklist.txt** – The main "Piss off Microsoft" list that blocks Copilot, Bing AI, and other invasive Microsoft services.
-- **Slimmed_Microsoft_Blocklist.txt** – A lighter Microsoft telemetry blocklist which keeps core Office apps and licensing working.
-- **General_Blocking_Rules.txt** – Generic tracking and analytics domains that typically do not affect essential functionality.
-- **Samsung_Tracker_Blocklist_Cleaned.txt** – HaGeZi's list targeting Samsung's built‑in tracking services.
-- **Mobile_Game_Ads_Blocklist.txt** – Blocks common mobile game ad networks such as Unity Ads, AppLovin, and Vungle.
-- **Adult_Content_Blocklist.txt** – Blocks popular adult content domains.
-- **Google_Gemini_Blocklist.txt** – Blocks Google Gemini (formerly Bard) AI endpoints and related services.
-- **Meta_Allowlist.txt** – Whitelist rules to permit Facebook domains when using these blocklists.
-- **Home_Automation_Allowlist.txt** – Whitelist rules to keep Lennox, Ring, Nest, and TP-Link services accessible.
+- **Microsoft_Tracking_Blocklist.txt** – The main "Piss off Microsoft" list that tells Copilot and Bing to take a hike.
+- **Slimmed_Microsoft_Blocklist.txt** – A slightly gentler list so Excel still runs but the snoops don't.
+- **General_Blocking_Rules.txt** – Sweeps away generic trackers nobody asked for.
+- **Samsung_Tracker_Blocklist_Cleaned.txt** – HaGeZi's list to muzzle Samsung's built‑in tracking.
+- **Mobile_Game_Ads_Blocklist.txt** – Boots out mobile game ad networks so you can actually enjoy your high score.
+- **Adult_Content_Blocklist.txt** – Blocks the spiciest corners of the web.
+- **Google_Gemini_Blocklist.txt** – Keeps Gemini from whispering AI secrets behind your back.
+- **Meta_Allowlist.txt** – Because sometimes you really do need to check those cat photos.
+- **Home_Automation_Allowlist.txt** – Lets your smart gadgets keep chatting while everything else hushes up.
 
 ## Direct Raw Links
 Skip the browsing—grab any list directly:
