@@ -1,5 +1,5 @@
 # Piss-off-Microsoft and Google
-Blocklist to obliterate Microsoft Copilot, Bing, and telemetry.
+Blocklist to obliterate Microsoft Copilot, Bing, and the mountains of telemetry they ride in on. That includes Windows update beacons, OneDrive call‑homes, Office clickstream collection, advertising servers, and other assorted analytics noise.
 
 ## What Luckless Does
 Luckless merges and maintains host-based blocklists aimed at shutting off Microsoft and Google tracking. The lists can be used with tools like AdGuard Home, Pi-hole, or uBlock Origin to keep unwanted telemetry at bay.
@@ -17,6 +17,19 @@ Below is a brief description of each list provided in this repository and what i
 - **Google_Gemini_Blocklist.txt** – Blocks Google Gemini (formerly Bard) AI endpoints and related services.
 - **Meta_Allowlist.txt** – Whitelist rules to permit Facebook domains when using these blocklists.
 - **Home_Automation_Allowlist.txt** – Whitelist rules to keep Lennox, Ring, Nest, and TP-Link services accessible.
+
+## Direct Raw Links
+Skip the browsing—grab any list directly:
+
+- [Microsoft_Tracking_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Microsoft_Tracking_Blocklist.txt)
+- [Slimmed_Microsoft_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Slimmed_Microsoft_Blocklist.txt)
+- [General_Blocking_Rules.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/General_Blocking_Rules.txt)
+- [Samsung_Tracker_Blocklist_Cleaned.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Samsung_Tracker_Blocklist_Cleaned.txt)
+- [Mobile_Game_Ads_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Mobile_Game_Ads_Blocklist.txt)
+- [Adult_Content_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Adult_Content_Blocklist.txt)
+- [Google_Gemini_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Google_Gemini_Blocklist.txt)
+- [Meta_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Meta_Allowlist.txt)
+- [Home_Automation_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Home_Automation_Allowlist.txt)
 
 ## Using These Lists
 Copy the raw text of any blocklist into your ad blocker of choice. Most folks just paste it into AdGuard Home, Pi-hole, or uBlock Origin. Update regularly—Microsoft has a habit of spawning new endpoints like rabbits.
