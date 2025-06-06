@@ -2,7 +2,7 @@
 ! Description: Because sometimes you really do need to check those cat photos.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-07
+! Last updated: 2025-06-08
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 
 @@||facebook.com^$important
@@ -17,3 +17,4 @@
 @@||external.xx.fbcdn.net^$important
 @@||scontent.xx.fbcdn.net^$important
 @@||messenger.com^$important
+@@||instagram.com^$important

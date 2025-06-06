@@ -38,3 +38,7 @@ Use the raw links above to grab any list and import it into your ad blocker of c
 Sure, the repo name is a bit cheeky, but the goal is simple: reclaim a little privacy. If our lists help you out and make you chuckle, that's a win-win.
 
 For a friendly overview, check out [index.md](./index.md).
+
+## Releases
+Current version: **v1.1.0**
+These blocklists are updated regularly. Grab the latest release from the GitHub releases page.

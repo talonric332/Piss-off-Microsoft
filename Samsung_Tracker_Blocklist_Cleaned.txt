@@ -2,7 +2,7 @@
 ! Description: Muzzles Samsung's built-in snitchware.
 ! Version: 2025.0530.2356.11
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last updated: 2025-05-30 23:56 UTC
+! Last updated: 2025-06-08 00:00 UTC
 !
 ! Converted from HaGeZi native.samsung.txt
 ||samsung-com.112.2o7.net^
@@ -259,3 +259,4 @@
 ||samsungusa.api.useinsider.com^
 ||samsungvn.api.useinsider.com^
 ||h4g3z1-native.samsung.web.app^
+||metrics.samsungapps.com^

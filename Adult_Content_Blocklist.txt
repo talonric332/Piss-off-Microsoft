@@ -1,8 +1,8 @@
 ! Title: Adult Content Domains Blocklist
 ! Description: Keeps the risque stuff off your network filter.
-! Version: 1.0.0
+! Version: 1.1.0
 ! License: Public Domain / CC0
-! Last updated: 2025-06-07
+! Last updated: 2025-06-08
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 !
 ||pornhub.com^
@@ -29,3 +29,4 @@
 ||xlovecam.com^
 ||wifelovers.com^
 ||worldsbestcams.com^
+||spankwire.com^
