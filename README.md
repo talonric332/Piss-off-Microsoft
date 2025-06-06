@@ -8,12 +8,12 @@ Luckless merges and maintains host-based blocklists aimed at shutting off Micros
 
 Below is a brief description of each list provided in this repository and what it is used for.
 
-- **blocklist.txt** – The main "Piss off Microsoft" list that blocks Copilot, Bing AI, and other invasive Microsoft services.
+- **Microsoft_Tracking_Blocklist.txt** – The main "Piss off Microsoft" list that blocks Copilot, Bing AI, and other invasive Microsoft services.
 - **Slimmed_Microsoft_Blocklist.txt** – A lighter Microsoft telemetry blocklist which keeps core Office apps and licensing working.
 - **General_Blocking_Rules.txt** – Generic tracking and analytics domains that typically do not affect essential functionality.
 - **Samsung_Tracker_Blocklist_Cleaned.txt** – HaGeZi's list targeting Samsung's built‑in tracking services.
-- **block-game-ads** – Blocks common mobile game ad networks such as Unity Ads, AppLovin, and Vungle.
+- **Mobile_Game_Ads_Blocklist.txt** – Blocks common mobile game ad networks such as Unity Ads, AppLovin, and Vungle.
 - **Adult_Content_Blocklist.txt** – Blocks popular adult content domains.
-- **Gemini blocklist** – Blocks Google Gemini (formerly Bard) AI endpoints and related services.
-- **Allow Facebook** – Whitelist rules to permit Facebook domains when using these blocklists.
-- **keep lennox and ring unblocked** – Whitelist rules to keep Lennox thermostat and Ring services accessible.
+- **Google_Gemini_Blocklist.txt** – Blocks Google Gemini (formerly Bard) AI endpoints and related services.
+- **Facebook_Allowlist.txt** – Whitelist rules to permit Facebook domains when using these blocklists.
+- **Lennox_and_Ring_Allowlist.txt** – Whitelist rules to keep Lennox thermostat and Ring services accessible.
