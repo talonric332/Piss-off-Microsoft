@@ -9,3 +9,4 @@
 @@||edge-mqtt.facebook.com^$important
 @@||external.xx.fbcdn.net^$important
 @@||scontent.xx.fbcdn.net^$important
+@@||messenger.com^$important
