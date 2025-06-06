@@ -7,3 +7,4 @@
 @@||events.launchdarkly.com^
 @@||click.redditmail.com^
 @@||rewards.bing.com^$important
+@@||app.ring.com^
