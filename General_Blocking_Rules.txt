@@ -15,3 +15,5 @@
 ||firebase-settings.crashlytics.com^
 ||s.amazon-adsystem.com^
 ||aax-us-east.amazon-adsystem.com^
+||bam.nr-data.net^
+||cdn.optimizely.com^
