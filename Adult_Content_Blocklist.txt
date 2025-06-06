@@ -2,7 +2,7 @@
 ! Description: Blocks adult content domains for DNS filtering systems.
 ! Version: 1.0.0
 ! License: Public Domain / CC0
-! Last updated: 2025-06-03
+! Last updated: 2025-06-06
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 !
 ||pornhub.com^
