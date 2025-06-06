@@ -2,7 +2,7 @@
 ! Description: Blocks common tracking and analytics domains that typically do not affect essential functionality.
 ! Version: 1.0.0
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-06
+! Last updated: 2025-06-07
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
 ||logs.netflix.com^
@@ -28,6 +28,12 @@
 ||simility.com^$third-party
 ||pagead2.googlesyndication.com^
 ||securepubads.g.doubleclick.net^
+||googleads.g.doubleclick.net^
+||ad.doubleclick.net^
+||fls.doubleclick.net^
+||device-metrics-us.amazon.com^
+||metrics.icloud.com^
+||advertising.apple.com^
 ||googletagmanager.com^
 ||googletagservices.com^
 ||adservice.google.com^
