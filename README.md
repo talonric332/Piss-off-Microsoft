@@ -32,7 +32,7 @@ Skip the browsing—grab any list directly:
 - [Home_Automation_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Home_Automation_Allowlist.txt)
 
 ## Using These Lists
-Copy the raw text of any blocklist into your ad blocker of choice. Most folks just paste it into AdGuard Home, Pi-hole, or uBlock Origin. Update regularly—Microsoft has a habit of spawning new endpoints like rabbits.
+Use the raw links above to grab any list and import it into your ad blocker of choice. Many folks just paste them into AdGuard Home, Pi-hole, or uBlock Origin. Check back often—Microsoft loves to roll out new endpoints. If you're on AdGuard Home, set your filter update interval to **1 hour** so you always fetch the latest changes.
 
 ## Why So Serious?
 Sure, the repo name is a bit cheeky, but the goal is simple: reclaim a little privacy. If our lists help you out and make you chuckle, that's a win-win.
