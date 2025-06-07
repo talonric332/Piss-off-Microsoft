@@ -2,7 +2,7 @@
 ! Description: So your smart gadgets keep chatting while everything else hushes up.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-06
+! Last updated: 2025-06-07
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 
 @@||api.ring.com^

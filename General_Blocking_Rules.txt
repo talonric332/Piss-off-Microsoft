@@ -64,3 +64,8 @@
 ||log.byteoversea.com^
 ||mon.byteoversea.com^
 ||abtest-va-tiktok.byteoversea.com^
+||api.mixpanel.com^
+||decide.mixpanel.com^
+||switchboard.mixpanel.com^
+||browser-intake-datadoghq.com^
+||logs.datadoghq.com^
