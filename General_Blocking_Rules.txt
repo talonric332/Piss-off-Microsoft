@@ -2,7 +2,7 @@
 ! Description: Sweeps away generic trackers nobody asked for.
 ! Version: 1.2.0
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-06
+! Last updated: 2025-06-07
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
 ||logs.netflix.com^
@@ -52,3 +52,15 @@
 ||arc.msn.com^
 ||assets1.xboxlive.com^
 ||assets2.xboxlive.com^
+||ads.tiktok.com^
+||ads-sg.tiktok.com^
+||business.tiktok.com^
+||business-api.tiktok.com^
+||analytics.tiktok.com^
+||ads.tiktokv.com^
+||log.tiktokv.com^
+||mon.tiktokv.com^
+||mon-va.tiktokv.com^
+||log.byteoversea.com^
+||mon.byteoversea.com^
+||abtest-va-tiktok.byteoversea.com^
