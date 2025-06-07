@@ -23,3 +23,8 @@
 @@||texta.ai^
 @@||hyperwriteai.com^
 @@||writer.com^
+@@||languagetool.org^
+@@||languagetoolplus.com^
+@@||prowritingaid.com^
+@@||gingersoftware.com^
+@@||slickwrite.com^
