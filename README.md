@@ -17,6 +17,7 @@ Below is a brief description of each list provided in this repository and what i
 - **Google_Gemini_Blocklist.txt** – Keeps Gemini from whispering AI secrets behind your back.
 - **Meta_Allowlist.txt** – Because sometimes you really do need to check those cat photos.
 - **Home_Automation_Allowlist.txt** – Lets your smart gadgets keep chatting while everything else hushes up.
+- **Gaming_Allowlist.txt** – Keeps Roblox, Minecraft, GTA Online, and other games running.
 
 ## Direct Raw Links
 Skip the browsing—grab any list directly:
@@ -30,6 +31,7 @@ Skip the browsing—grab any list directly:
 - [Google_Gemini_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Google_Gemini_Blocklist.txt)
 - [Meta_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Meta_Allowlist.txt)
 - [Home_Automation_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Home_Automation_Allowlist.txt)
+- [Gaming_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Gaming_Allowlist.txt)
 
 ## Using These Lists
 Use the raw links above to grab any list and import it into your ad blocker of choice. Many folks just paste them into AdGuard Home, Pi-hole, or uBlock Origin. Check back often—Microsoft loves to roll out new endpoints. If you're on AdGuard Home, set your filter update interval to **1 hour** so you always fetch the latest changes.
