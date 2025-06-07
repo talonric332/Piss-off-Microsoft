@@ -18,6 +18,7 @@ Below is a brief description of each list provided in this repository and what i
 - **Meta_Allowlist.txt** – Because sometimes you really do need to check those cat photos.
 - **Home_Automation_Allowlist.txt** – Lets your smart gadgets keep chatting while everything else hushes up.
 - **Gaming_Allowlist.txt** – Keeps Roblox, Minecraft, GTA Online, and other games running.
+- **Writing_AI_Allowlist.txt** – Keeps Grammarly, Wordtune, Jasper, and other AI writing helpers running smoothly.
 
 ## Direct Raw Links
 Skip the browsing—grab any list directly:
@@ -32,6 +33,7 @@ Skip the browsing—grab any list directly:
 - [Meta_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Meta_Allowlist.txt)
 - [Home_Automation_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Home_Automation_Allowlist.txt)
 - [Gaming_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Gaming_Allowlist.txt)
+- [Writing_AI_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Writing_AI_Allowlist.txt)
 
 ## Using These Lists
 Use the raw links above to grab any list and import it into your ad blocker of choice. Many folks just paste them into AdGuard Home, Pi-hole, or uBlock Origin. Check back often—Microsoft loves to roll out new endpoints. If you're on AdGuard Home, set your filter update interval to **1 hour** so you always fetch the latest changes.
