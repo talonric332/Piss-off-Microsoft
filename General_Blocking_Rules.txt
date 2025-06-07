@@ -1,8 +1,8 @@
 ! Title: General Blocking Rules
 ! Description: Sweeps away generic trackers nobody asked for.
-! Version: 1.1.0
+! Version: 1.2.0
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-08
+! Last updated: 2025-06-06
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
 ||logs.netflix.com^
@@ -44,3 +44,4 @@
 ||stats.wp.com^
 ||pixel.wp.com^
 ||ads.yahoo.com^
+||analytics.yahoo.com^

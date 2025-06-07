@@ -42,5 +42,5 @@ Sure, the repo name is a bit cheeky, but the goal is simple: reclaim a little pr
 For a friendly overview, check out [index.md](./index.md).
 
 ## Releases
-Current version: **v1.1.0**
+Current version: **v1.2.0**
 These blocklists are updated regularly. Grab the latest release from the GitHub releases page.
