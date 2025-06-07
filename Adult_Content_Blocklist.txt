@@ -2,7 +2,7 @@
 ! Description: Keeps the risque stuff off your network filter.
 ! Version: 1.2.0
 ! License: Public Domain / CC0
-! Last updated: 2025-06-06
+! Last updated: 2025-06-07
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 !
 ||pornhub.com^
