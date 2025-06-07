@@ -45,3 +45,10 @@
 ||pixel.wp.com^
 ||ads.yahoo.com^
 ||analytics.yahoo.com^
+! Xbox dashboard ads
+
+||g.msn.com^
+||ads.msn.com^
+||arc.msn.com^
+||assets1.xboxlive.com^
+||assets2.xboxlive.com^
