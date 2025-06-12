@@ -46,3 +46,6 @@ For a friendly overview, check out [index.md](./index.md).
 ## Releases
 Current version: **v1.2.1**
 These blocklists are updated regularly. Grab the latest release from the GitHub releases page.
+
+## Automation
+These lists update daily thanks to a GitHub Actions workflow. The script in `scripts/update_lists.py` pulls fresh sources and removes anything allowed in our allowlists. You can trigger it manually from the Actions tab if needed.
