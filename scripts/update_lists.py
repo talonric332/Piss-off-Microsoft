@@ -5,9 +5,25 @@ import re
 from pathlib import Path
 
 RE_DOMAIN = re.compile(r"^[|@]*\|\|([^/^$]*)")
+RE_SIMPLE_DOMAIN = re.compile(r"^[A-Za-z0-9.-]+$")
 
 BLOCKLIST_SUFFIX = "_Blocklist.txt"
 ALLOWLIST_SUFFIX = "_Allowlist.txt"
+
+
+def is_valid_domain(domain: str) -> bool:
+    """Simple domain validation."""
+    if not domain:
+        return False
+    if domain.endswith('.'):
+        domain = domain[:-1]
+    if '..' in domain:
+        return False
+    if len(domain) > 253:
+        return False
+    if '.' not in domain:
+        return False
+    return bool(RE_SIMPLE_DOMAIN.match(domain))
 
 
 def parse_domains(text):
@@ -18,15 +34,15 @@ def parse_domains(text):
             continue
         if line.startswith("@@||"):
             domain = RE_DOMAIN.match(line)
-            if domain:
+            if domain and is_valid_domain(domain.group(1)):
                 domains.add(domain.group(1))
         elif line.startswith("||"):
             domain = RE_DOMAIN.match(line)
-            if domain:
+            if domain and is_valid_domain(domain.group(1)):
                 domains.add(domain.group(1))
         elif line.startswith("0.0.0.0") or line.startswith("127.0.0.1"):
             parts = line.split()
-            if len(parts) >= 2:
+            if len(parts) >= 2 and is_valid_domain(parts[1]):
                 domains.add(parts[1])
     return domains
 
@@ -42,6 +58,9 @@ def extract_header(text):
 
 
 def update_list(path, sources, allow_domains):
+    if path.endswith(ALLOWLIST_SUFFIX):
+        print(f"Skipping update for allowlist {path}")
+        return
     current_text = Path(path).read_text()
     header = extract_header(current_text)
 
@@ -49,9 +68,18 @@ def update_list(path, sources, allow_domains):
 
     for url in sources:
         try:
+            if not url.startswith("http"):
+                print(f"Skipping invalid URL {url}")
+                continue
             r = requests.get(url, timeout=30)
             if r.status_code == 200:
-                domains.update(parse_domains(r.text))
+                parsed = parse_domains(r.text)
+                if not parsed:
+                    print(f"No domains found in {url}")
+                else:
+                    domains.update(parsed)
+            else:
+                print(f"Unexpected status {r.status_code} for {url}")
         except Exception as e:
             print(f"Failed fetching {url}: {e}")
 
@@ -90,7 +118,11 @@ def main():
         allow_domains.update(parse_domains(Path(allow_file).read_text()))
 
     for block_file, urls in cfg.items():
+        if not block_file.endswith(BLOCKLIST_SUFFIX):
+            print(f"Skipping unknown file {block_file}")
+            continue
         if not Path(block_file).exists():
+            print(f"Blocklist file {block_file} not found")
             continue
         if not isinstance(urls, list):
             urls = [urls]
