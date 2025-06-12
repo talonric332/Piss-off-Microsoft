@@ -1,0 +1,14 @@
+Microsoft_Tracking_Blocklist.txt:
+  - https://raw.githubusercontent.com/Roosen12/Invoke-DOS/main/lists/microsoft/list
+Slimmed_Microsoft_Blocklist.txt:
+  - https://raw.githubusercontent.com/Roosen12/Invoke-DOS/main/lists/microsoft/list
+General_Blocking_Rules.txt:
+  - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+Samsung_Tracker_Blocklist_Cleaned.txt:
+  - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/native/samsung.txt
+Mobile_Game_Ads_Blocklist.txt:
+  - https://raw.githubusercontent.com/o0HalfLife0o/list/master/adservers.txt
+Adult_Content_Blocklist.txt:
+  - https://raw.githubusercontent.com/blocklistproject/Lists/master/adult.txt
+Google_Gemini_Blocklist.txt:
+  - https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
