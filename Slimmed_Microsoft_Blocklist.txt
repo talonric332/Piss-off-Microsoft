@@ -2,7 +2,7 @@
 ! Description: Keeps Copilot and Bing in check while letting Excel do its thing.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-13
+! Last updated: 2025-06-14
 ! Author: talonric332
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 
@@ -46,3 +46,6 @@
 ||vortex-win.data.microsoft.com^
 ||vortex.data.microsoft.com^
 ||watson.live.com^
+||activity.windows.com^
+||browser.pipe.aria.microsoft.com^
+||feedback.microsoft.com^
