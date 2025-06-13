@@ -2,32 +2,32 @@
 ! Description: Keeps the risque stuff off your network filter.
 ! Version: 1.2.0
 ! License: Public Domain / CC0
-! Last updated: 2025-06-07
+! Last updated: 2025-06-13
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 !
+||bangbros.com^
+||brazzers.com^
+||cam4.com^
+||camwhores.tv^
+||erome.com^
+||fapello.com^
+||mofos.com^
+||nudogram.com^
+||onlyfans.com^
+||pornhd.com^
 ||pornhub.com^
 ||pornhubpremium.com^
-||xvideos.com^
-||xvideos-cdn.com^
-||xnxx.com^
 ||redtube.com^
-||youporn.com^
-||xhamster.com^
-||spankbang.com^
-||fapello.com^
 ||rule34.xxx^
-||onlyfans.com^
-||erome.com^
-||brazzers.com^
-||mofos.com^
-||bangbros.com^
-||nudogram.com^
-||camwhores.tv^
-||cam4.com^
-||xhamstercams.com^
+||spankbang.com^
+||spankwire.com^
 ||watchmygf.to^
-||xlovecam.com^
 ||wifelovers.com^
 ||worldsbestcams.com^
-||spankwire.com^
-||pornhd.com^
+||xhamster.com^
+||xhamstercams.com^
+||xlovecam.com^
+||xnxx.com^
+||xvideos-cdn.com^
+||xvideos.com^
+||youporn.com^
