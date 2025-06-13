@@ -47,5 +47,3 @@ For a friendly overview, check out [index.md](./index.md).
 Current version: **v1.2.1**
 These blocklists are updated regularly. Grab the latest release from the GitHub releases page.
 
-## Automation
-These lists update daily thanks to a GitHub Actions workflow. The script in `scripts/update_lists.py` pulls fresh sources and removes anything allowed in our allowlists. The workflow defined in `.github/workflows/update-lists.yml` runs every day at midnight (UTC), installs the required Python packages, and then executes the update script. If any of the lists change, the workflow automatically commits the updates back to the repository. You can also trigger the action manually from the GitHub Actions tab whenever you want to force a refresh.
