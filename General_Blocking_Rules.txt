@@ -2,7 +2,7 @@
 ! Description: Sweeps away generic trackers nobody asked for.
 ! Version: 1.2.0
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-07
+! Last updated: 2025-06-14
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
 ||logs.netflix.com^
@@ -69,3 +69,6 @@
 ||switchboard.mixpanel.com^
 ||browser-intake-datadoghq.com^
 ||logs.datadoghq.com^
+||logs-01.loggly.com^
+||stats.mixpanel.com^
+||collector.newrelic.com^
