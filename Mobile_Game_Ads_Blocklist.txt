@@ -2,51 +2,51 @@
 ! Description: Boots out mobile game ad networks so you can actually enjoy your high score.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-07
+! Last updated: 2025-06-13
 ! Author: talonric332
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
+||a.applovin.com^
+||adcolony.com^
+||ads.api.vungle.com^
+||ads.appnext.com^
+||ads.flurry.com^
+||ads.mintegral.net^
 ||ads.mopub.com^
 ||ads.nexage.com^
-||adcolony.com^
-||api.adcolony.com^
-||vungle.com^
-||api.vungle.com^
-||chartboost.com^
-||live.chartboost.com^
-||inmobi.com^
-||sdk.inmobi.com^
-||applovin.com^
-||d.applovin.com^
-||ms.applovin.com^
-||unityads.unity3d.com^
 ||ads.prd.ie.unityads.unity3d.com^
-||tapjoy.com^
-||api.tapjoy.com^
-||startappservice.com^
 ||ads.startappservice.com^
-||appnext.com^
-||ads.appnext.com^
-||mobvista.com^
-||mobvista.ai^
-||flurry.com^
-||data.flurry.com^
-||ads.flurry.com^
-||ironsrc.com^
-||sonic-us.supersonicads.com^
-||supersonicads.com^
 ||ads.superawesome.tv^
-||adtilt.com^
-||a.applovin.com^
-||assets.applovin.com^
-||ads.api.vungle.com^
-||tpat.api.vungle.com^
-||auction.unityads.unity3d.com^
-||config.unityads.unity3d.com^
-||adsx.unityads.unity3d.com^
-||auction-banner.unityads.unity3d.com^
-||ssp-events.chartboost.com^
-||t.chartboost.com^
-||v2.chartboost.com^
 ||ads.tapdaq.com^
-||ads.mintegral.net^
+||adsx.unityads.unity3d.com^
+||adtilt.com^
+||api.adcolony.com^
+||api.tapjoy.com^
+||api.vungle.com^
+||applovin.com^
+||appnext.com^
+||assets.applovin.com^
+||auction-banner.unityads.unity3d.com^
+||auction.unityads.unity3d.com^
+||chartboost.com^
+||config.unityads.unity3d.com^
+||d.applovin.com^
+||data.flurry.com^
+||flurry.com^
+||inmobi.com^
+||ironsrc.com^
+||live.chartboost.com^
+||mobvista.ai^
+||mobvista.com^
+||ms.applovin.com^
+||sdk.inmobi.com^
+||sonic-us.supersonicads.com^
+||ssp-events.chartboost.com^
+||startappservice.com^
+||supersonicads.com^
+||t.chartboost.com^
+||tapjoy.com^
+||tpat.api.vungle.com^
+||unityads.unity3d.com^
+||v2.chartboost.com^
+||vungle.com^
