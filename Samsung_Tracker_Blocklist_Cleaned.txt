@@ -1,9 +1,9 @@
 ! Title: HaGeZi's Samsung Tracker Blocklist
-! Description: Muzzles Samsung's built-in snitchware.
+! Description: Blocks telemetry services built into Samsung devices.
 ! Version: 2025.0530.2356.11
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Last updated: 2025-06-14 00:00 UTC
-!
+! Last updated: 2025-06-15 00:00 UTC
 ! Converted from HaGeZi native.samsung.txt
 ||samsung-com.112.2o7.net^
 ||metric.account-samsung.com^
@@ -264,3 +264,4 @@
 ||beacon.samsung.com^
 ||track.samsungcloud.com^
 ||logging.samsungcloud.com^
+||metrics.samsung.com^

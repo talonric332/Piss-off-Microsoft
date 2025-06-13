@@ -1,8 +1,8 @@
 ! Title: Meta Allowlist
-! Description: Because sometimes you really do need to check those cat photos.
+! Description: Allows access to Facebook, Instagram and other Meta services.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-14
+! Last updated: 2025-06-15
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 
 @@||facebook.com^$important
@@ -21,3 +21,4 @@
 @@||whatsapp.com^$important
 @@||threads.net^$important
 @@||facebook.net^$important
+@@||messenger.com^$important

@@ -1,8 +1,8 @@
 ! Title: General Blocking Rules
-! Description: Sweeps away generic trackers nobody asked for.
+! Description: Generic tracker domains aggregated from multiple sources.
 ! Version: 1.2.0
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-14
+! Last updated: 2025-06-15
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
 ||logs.netflix.com^
@@ -72,3 +72,4 @@
 ||logs-01.loggly.com^
 ||stats.mixpanel.com^
 ||collector.newrelic.com^
+||events.crashlytics.com^
