@@ -1,8 +1,8 @@
 ! Title: Adult Content Domains Blocklist
-! Description: Keeps the risque stuff off your network filter.
+! Description: Blocks commonly known adult and pornographic domains.
 ! Version: 1.2.0
 ! License: Public Domain / CC0
-! Last updated: 2025-06-14
+! Last updated: 2025-06-15
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 !
 ||bangbros.com^
@@ -34,3 +34,4 @@
 ||porngifs.com^
 ||hentaigasm.com^
 ||playboy.com^
+||redtube.com^

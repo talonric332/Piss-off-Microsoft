@@ -1,8 +1,8 @@
 ! Title: Writing AI Tools Allowlist
-! Description: Lets Grammarly, ChatGPT, QuillBot, and other AI writing helpers run without interference.
+! Description: Allows popular AI writing assistants to access their services.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-14
+! Last updated: 2025-06-15
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 
 @@||grammarly.com^
@@ -31,3 +31,4 @@
 @@||surferseo.com^
 @@||seowriting.ai^
 @@||deepai.org^
+@@||copysmith.ai^
