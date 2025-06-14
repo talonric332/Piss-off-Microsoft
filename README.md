@@ -45,8 +45,11 @@ Skip the browsing—grab any list directly:
 Use the raw links above to grab any list and import it into your ad blocker of choice. Many folks just paste them into AdGuard Home, Pi-hole, or uBlock Origin. Check back often—Microsoft loves to roll out new endpoints. If you're on AdGuard Home, set your filter update interval to **1 hour** so you always fetch the latest changes.
 
 ## About This Project
-These lists are released into the public domain under the CC0 license. They are
-regularly updated and community contributions are welcome.
+Piss-off-Microsoft and Google is an open-source effort to reclaim a bit of
+privacy by blocking known tracking domains. The lists are in the public domain
+under the CC0 license and rely on community contributions. We have no
+affiliation with Microsoft, Google or any other company—just a shared desire to
+mute intrusive telemetry.
 
 ## Releases
 Current version: **v1.2.3**
