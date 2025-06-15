@@ -1,10 +1,9 @@
 ! Title: General Blocking Rules
 ! Description: Generic tracker domains aggregated from multiple sources.
-! Version: 1.2.0
+! Version: 1.2.1
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-15
+! Last updated: 2025-06-16
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
-
 ||logs.netflix.com^
 ||www.google-analytics.com^
 ||ssl.google-analytics.com^
@@ -46,7 +45,6 @@
 ||ads.yahoo.com^
 ||analytics.yahoo.com^
 ! Xbox dashboard ads
-
 ||g.msn.com^
 ||ads.msn.com^
 ||arc.msn.com^

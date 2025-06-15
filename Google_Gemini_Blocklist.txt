@@ -2,7 +2,7 @@
 ! Description: Blocks domains used by Google Gemini and related AI tracking.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-15
+! Last updated: 2025-06-16
 ! Author: talonric332
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and any DNS/adblock filter system.
 ! Note: This list blocks AI features from Google for all clients. If you only want to block for VPN clients, use a version with $client=127.0.0.1.
@@ -15101,4 +15101,3 @@
 ||beacons.gcp.gvt2.com^
 ||firebase.googleapis.com^
 ||us.gcr.io^
-||gemini.google.com^
