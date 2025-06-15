@@ -2,7 +2,7 @@
 ! Description: Allows network access required by major gaming platforms.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-15
+! Last updated: 2025-06-14
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 
 @@||roblox.com^
@@ -22,4 +22,3 @@
 @@||riotgames.com^
 @@||fortnite.com^
 @@||leagueoflegends.com^
-@@||epicgames.com^
