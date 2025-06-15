@@ -52,6 +52,6 @@ affiliation with Microsoft, Google or any other company—just a shared desire t
 mute intrusive telemetry.
 
 ## Releases
-Current version: **v1.2.3**
+Current version: **v1.2.4**
 These blocklists are updated regularly. Grab the latest release from the GitHub releases page.
 
