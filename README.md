@@ -25,6 +25,7 @@ Below is a brief description of each list provided in this repository and what i
 - **Home_Automation_Allowlist.txt** – Keeps smart lights and robot vacuums on speaking terms with their cloud overlords while blocking the chatterboxes.
 - **Gaming_Allowlist.txt** – Makes sure the big gaming services stay online so you never miss an update—or a headshot.
 - **Writing_AI_Allowlist.txt** – Ensures your AI writing buddy can still reach the mothership to whip up witty prose on demand.
+- **Unifi_Allowlist.txt** – Keeps UniFi gear connected to the cloud while blocking the noise.
 
 ## Direct Raw Links
 Skip the browsing—grab any list directly:
@@ -40,6 +41,7 @@ Skip the browsing—grab any list directly:
 - [Home_Automation_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Home_Automation_Allowlist.txt)
 - [Gaming_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Gaming_Allowlist.txt)
 - [Writing_AI_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Writing_AI_Allowlist.txt)
+- [Unifi_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Unifi_Allowlist.txt)
 
 ## Using These Lists
 Use the raw links above to grab any list and import it into your ad blocker of choice. Many folks just paste them into AdGuard Home, Pi-hole, or uBlock Origin. Check back often—Microsoft loves to roll out new endpoints. If you're on AdGuard Home, set your filter update interval to **1 hour** so you always fetch the latest changes.
