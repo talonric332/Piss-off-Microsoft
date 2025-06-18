@@ -2,7 +2,7 @@
 ! Description: Blocks Google Gemini (formerly Bard), generative AI endpoints, and assistant APIs used for AI features.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-06
+! Last updated: 2025-06-18
 ! Author: talonric332
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and any DNS/adblock filter system.
 ! Note: This list blocks AI features from Google for all clients. If you only want to block for VPN clients, use a version with $client=127.0.0.1.
