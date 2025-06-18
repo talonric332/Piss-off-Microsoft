@@ -2,7 +2,7 @@
 ! Description: Minimal blocklist to cut Microsoft telemetry without affecting key apps.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-18
+! Last updated: 2025-06-19
 ! Author: talonric332
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 
@@ -49,3 +49,5 @@
 ||activity.windows.com^
 ||browser.pipe.aria.microsoft.com^
 ||feedback.microsoft.com^
+||msedge.api.cdp.microsoft.com^
+||dl.delivery.mp.microsoft.com^

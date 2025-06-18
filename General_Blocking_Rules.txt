@@ -2,7 +2,7 @@
 ! Description: Generic tracker domains aggregated from multiple sources.
 ! Version: 1.2.2
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-18
+! Last updated: 2025-06-19
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 ||logs.netflix.com^
 ||www.google-analytics.com^
@@ -71,3 +71,5 @@
 ||stats.mixpanel.com^
 ||collector.newrelic.com^
 ||events.crashlytics.com^
+||msedge.api.cdp.microsoft.com^
+||dl.delivery.mp.microsoft.com^
