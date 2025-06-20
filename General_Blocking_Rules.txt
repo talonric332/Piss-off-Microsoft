@@ -12,8 +12,6 @@
 ||telemetry.mozilla.org^
 ||api.segment.io^
 ||firebase-settings.crashlytics.com^
-||s.amazon-adsystem.com^
-||aax-us-east.amazon-adsystem.com^
 ||bam.nr-data.net^
 ||cdn.optimizely.com^
 ||brdtest.com^
@@ -30,7 +28,6 @@
 ||googleads.g.doubleclick.net^
 ||ad.doubleclick.net^
 ||fls.doubleclick.net^
-||device-metrics-us.amazon.com^
 ||metrics.icloud.com^
 ||advertising.apple.com^
 ||googletagmanager.com^
@@ -49,7 +46,6 @@
 ||analytics.snapchat.com^
 ||analytics.pinterest.com^
 ||partner.googleadservices.com^
-||m.media-amazon.com^
 ! Xbox dashboard ads
 ||g.msn.com^
 ||ads.msn.com^
