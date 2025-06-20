@@ -21,7 +21,7 @@ Below is a brief description of each list provided in this repository and what i
 - **Mobile_Game_Ads_Blocklist.txt** – Eliminates those endless pop-ups so you can focus on crushing levels, not closing banners.
 - **Adult_Content_Blocklist.txt** – Keeps your network squeaky clean by sweeping away domains you'd rather not explain to grandma.
 - **Google_Gemini_Blocklist.txt** – Targets the cosmic constellation of Gemini trackers so Google's AI can't follow you everywhere.
-- **General_Allowlist.txt** – Lets key domains like Amazon services through so your favorite sites keep working.
+- **General_Allowlist.txt** – Lets key domains like Amazon, GitHub, PayPal and Slack services through so your favorite sites keep working.
 - **Meta_Allowlist.txt** – Lets Facebook and Instagram through because sometimes you just have to see those cat photos and memes.
 - **Home_Automation_Allowlist.txt** – Keeps smart lights and robot vacuums on speaking terms with their cloud overlords while blocking the chatterboxes.
 - **Gaming_Allowlist.txt** – Makes sure the big gaming services stay online so you never miss an update—or a headshot.
