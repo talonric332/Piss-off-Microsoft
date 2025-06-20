@@ -2,7 +2,7 @@
 ! Description: Blocks Microsoft telemetry, Copilot, Bing advertising and related domains.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-19
+! Last updated: 2025-06-20
 ! Author: talonric332
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and any DNS/adblock filter system.
 ! Note: This version blocks for all clients. If you're using Tailscale/VPNs, use a separate list with $client=127.0.0.1 rules.
@@ -74,6 +74,13 @@
 ||telemetry.microsoft.com^
 ||telemetry.urs.microsoft.com^
 ||telemetry.visualstudio.microsoft.com^
+||c.xbox.com^
+||o.xbox.com^
+||microsoftxbox.112.2o7.net^
+||rad.msn.com^
+||at.atwola.com^
+||nw-umwatson.events.data.microsoft.com^
+||watson.events.data.microsoft.com^
 ||v10.events.data.microsoft.com^
 ||vortex-win.data.microsoft.com^
 ||vortex.data.microsoft.com^
