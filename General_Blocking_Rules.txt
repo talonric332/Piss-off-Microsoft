@@ -56,6 +56,13 @@
 ||arc.msn.com^
 ||assets1.xboxlive.com^
 ||assets2.xboxlive.com^
+||c.xbox.com^
+||o.xbox.com^
+||microsoftxbox.112.2o7.net^
+||rad.msn.com^
+||at.atwola.com^
+||nw-umwatson.events.data.microsoft.com^
+||watson.events.data.microsoft.com^
 ||ads.tiktok.com^
 ||ads-sg.tiktok.com^
 ||business.tiktok.com^
