@@ -12,7 +12,6 @@
 @@||twilio.com^
 @@||tplinkcloud.com^
 @@||tp-link.com^
-@@||amazonaws.com^
 @@||events.launchdarkly.com^
 @@||click.redditmail.com^
 @@||rewards.bing.com^$important
