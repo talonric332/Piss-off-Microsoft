@@ -2,7 +2,7 @@
 ! Description: Allows common services including Amazon domains removed from the block lists.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-20
+! Last updated: 2025-06-21
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 
 @@||amazonaws.com^
@@ -10,3 +10,12 @@
 @@||aax-us-east.amazon-adsystem.com^
 @@||device-metrics-us.amazon.com^
 @@||m.media-amazon.com^
+@@||github.com^
+@@||githubusercontent.com^
+@@||gitlab.com^
+@@||slack.com^
+@@||paypal.com^
+@@||paypalobjects.com^
+@@||stripe.com^
+@@||zoom.us^
+@@||discord.com^
