@@ -77,6 +77,14 @@
 ||c.xbox.com^
 ||o.xbox.com^
 ||microsoftxbox.112.2o7.net^
+||ads.xbox-scene.com^
+||xbox-ms-store-debug.com^
+||xbox360emulator.com^
+||www.xbox360emulator.com^
+||xboxgamerguide.com^
+||www.xboxgamerguide.com^
+||xbox.ign.us.intellitxt.com^
+||xbox360.ign.us.intellitxt.com^
 ||rad.msn.com^
 ||at.atwola.com^
 ||nw-umwatson.events.data.microsoft.com^
