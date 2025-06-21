@@ -1,6 +1,6 @@
 ! Title: General Blocking Rules
 ! Description: Generic tracker domains aggregated from multiple sources.
-! Version: 1.2.4
+! Version: 1.2.5
 ! License: CC0 / Public Domain
 ! Last updated: 2025-06-21
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
@@ -30,8 +30,6 @@
 ||fls.doubleclick.net^
 ||metrics.icloud.com^
 ||advertising.apple.com^
-||googletagmanager.com^
-||googletagservices.com^
 ||adservice.google.com^
 ||googleadservices.com^
 ||www.googleadservices.com^

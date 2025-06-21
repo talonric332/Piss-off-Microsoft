@@ -2,7 +2,7 @@
 ! Description: Blocks telemetry services built into Samsung devices.
 ! Version: 2025.0616.1258.12
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last updated: 2025-06-20
+! Last updated: 2025-06-21
 ! Converted from HaGeZi native.samsung.txt
 ||samsung-com.112.2o7.net^
 ||metric.account-samsung.com^
