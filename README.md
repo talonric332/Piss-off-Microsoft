@@ -19,6 +19,7 @@ Below is a brief description of each list provided in this repository and what i
 - **General_Blocking_Rules.txt** – A sampler platter of the biggest trackers from across the web—perfect for a no-fuss privacy boost.
 - **Samsung_Tracker_Blocklist_Cleaned.txt** – Tell your Galaxy phone to quit gossiping with Samsung's servers and enjoy some peace and quiet.
 - **Mobile_Game_Ads_Blocklist.txt** – Eliminates those endless pop-ups so you can focus on crushing levels, not closing banners.
+- **Advertising_Network_Blocklist.txt** – Blocks Google ad servers and other major advertising networks.
 - **Adult_Content_Blocklist.txt** – Keeps your network squeaky clean by sweeping away domains you'd rather not explain to grandma.
 - **Google_Gemini_Blocklist.txt** – Targets the cosmic constellation of Gemini trackers so Google's AI can't follow you everywhere.
 - **General_Allowlist.txt** – Lets key domains like Amazon, GitHub, PayPal, Slack and Microsoft Office services through so your favorite sites keep working.
@@ -36,6 +37,7 @@ Skip the browsing—grab any list directly:
 - [General_Blocking_Rules.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/General_Blocking_Rules.txt)
 - [Samsung_Tracker_Blocklist_Cleaned.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Samsung_Tracker_Blocklist_Cleaned.txt)
 - [Mobile_Game_Ads_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Mobile_Game_Ads_Blocklist.txt)
+- [Advertising_Network_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Advertising_Network_Blocklist.txt)
 - [Adult_Content_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Adult_Content_Blocklist.txt)
 - [Google_Gemini_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Google_Gemini_Blocklist.txt)
 - [General_Allowlist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/General_Allowlist.txt)
