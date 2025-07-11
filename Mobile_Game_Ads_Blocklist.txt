@@ -2,7 +2,7 @@
 ! Description: Blocks advertising networks commonly bundled with mobile games.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-25
+! Last updated: 2025-07-10
 ! Author: talonric332
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
@@ -23,6 +23,7 @@
 ||api.adcolony.com^
 ||api.tapjoy.com^
 ||api.vungle.com^
+||api.revenuecat.com^
 ||applovin.com^
 ||appnext.com^
 ||assets.applovin.com^

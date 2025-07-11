@@ -2,7 +2,7 @@
 ! Description: Generic tracker domains aggregated from multiple sources.
 ! Version: 1.2.5
 ! License: CC0 / Public Domain
-! Last updated: 2025-06-25
+! Last updated: 2025-07-10
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 ||logs.netflix.com^
 ||www.google-analytics.com^
@@ -29,6 +29,7 @@
 ||ad.doubleclick.net^
 ||fls.doubleclick.net^
 ||metrics.icloud.com^
+||telemetry.apple.com^
 ||advertising.apple.com^
 ||adservice.google.com^
 ||googleadservices.com^
