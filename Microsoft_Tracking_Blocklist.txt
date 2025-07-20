@@ -104,3 +104,11 @@
 ||feedback.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
 ||dl.delivery.mp.microsoft.com^
+
+||adnexus.net^
+||browser.events.data.microsoft.com^
+||edge-mqtt.microsoft.com^
+||ec.atdmt.com^
+||msedge.net^
+||telecommand.telemetry.microsoft.com^
+||watson.telemetry.microsoft.com^
