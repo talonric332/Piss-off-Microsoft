@@ -30,3 +30,6 @@
 ||ads-sg.tiktok.com^
 ||ads.tiktokv.com^
 ||ads-twitter.com^
+
+||adnexus.net^
+||ec.atdmt.com^
