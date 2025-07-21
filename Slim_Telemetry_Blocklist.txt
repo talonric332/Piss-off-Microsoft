@@ -1,4 +1,4 @@
-! Title: Slimmed Microsoft Telemetry Blocklist
+! Title: Slim Telemetry Blocklist
 ! Description: Minimal blocklist to cut Microsoft telemetry without affecting key apps.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
