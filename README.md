@@ -18,8 +18,7 @@ Below is a brief description of each list provided in this repository and what i
 - **Slim_Telemetry_Blocklist.txt** – A lighter touch that keeps Xbox updates humming while still shutting down the worst of Redmond's snoops.
 - **General_Blocking_Rules.txt** – A sampler platter of the biggest trackers from across the web—perfect for a no-fuss privacy boost.
 - **Samsung_Tracker_Blocklist_Cleaned.txt** – Tell your Galaxy phone to quit gossiping with Samsung's servers and enjoy some peace and quiet.
-- **Mobile_Game_Ads_Blocklist.txt** – Eliminates those endless pop-ups so you can focus on crushing levels, not closing banners.
-- **Advertising_Network_Blocklist.txt** – Blocks Google ad servers and other major advertising networks.
+- **Advertising_Network_Blocklist.txt** – Blocks Google ad servers, mobile game ad networks, and other major advertising networks.
 - **Core_Blocking_List.txt** – Blocks Microsoft telemetry and Google advertising domains without allowing anything through.
 - **Adult_Content_Blocklist.txt** – Keeps your network squeaky clean by sweeping away domains you'd rather not explain to grandma.
 - **Google_Gemini_Blocklist.txt** – Targets the cosmic constellation of Gemini trackers so Google's AI can't follow you everywhere.
@@ -37,7 +36,6 @@ Skip the browsing—grab any list directly:
 - [Slim_Telemetry_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Slim_Telemetry_Blocklist.txt)
 - [General_Blocking_Rules.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/General_Blocking_Rules.txt)
 - [Samsung_Tracker_Blocklist_Cleaned.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Samsung_Tracker_Blocklist_Cleaned.txt)
-- [Mobile_Game_Ads_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Mobile_Game_Ads_Blocklist.txt)
 - [Advertising_Network_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Advertising_Network_Blocklist.txt)
 - [Core_Blocking_List.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Core_Blocking_List.txt)
 - [Adult_Content_Blocklist.txt](https://raw.githubusercontent.com/talonric332/Piss-off-Microsoft/main/Adult_Content_Blocklist.txt)
