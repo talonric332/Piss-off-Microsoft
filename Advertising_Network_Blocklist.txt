@@ -1,35 +1,80 @@
 ! Title: Advertising Network Blocklist
-! Description: Blocks Google ad servers and other major advertising networks.
+! Description: Blocks Google ad servers, mobile game ad networks, and other major advertising networks.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-07-10
+! Last updated: 2025-07-20
 ! Author: talonric332
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
-||pagead2.googlesyndication.com^
-||securepubads.g.doubleclick.net^
-||googleads.g.doubleclick.net^
+||a.applovin.com^
 ||ad.doubleclick.net^
-||fls.doubleclick.net^
-||stats.g.doubleclick.net^
-||adservice.google.com^
-||adservice.google.co^
-||googleadservices.com^
-||www.googleadservices.com^
-||partner.googleadservices.com^
-||advertising.apple.com^
-||ads.yahoo.com^
-||analytics.yahoo.com^
-||ads.reddit.com^
-||events.redditmedia.com^
-||analytics.snapchat.com^
-||ads.snapchat.com^
-||analytics.pinterest.com^
-||px.ads.linkedin.com^
-||ads.tiktok.com^
-||ads-sg.tiktok.com^
-||ads.tiktokv.com^
-||ads-twitter.com^
-
+||adcolony.com^
 ||adnexus.net^
+||ads-sg.tiktok.com^
+||ads-twitter.com^
+||ads.api.vungle.com^
+||ads.appnext.com^
+||ads.flurry.com^
+||ads.mintegral.net^
+||ads.mopub.com^
+||ads.nexage.com^
+||ads.prd.ie.unityads.unity3d.com^
+||ads.reddit.com^
+||ads.snapchat.com^
+||ads.startappservice.com^
+||ads.superawesome.tv^
+||ads.tapdaq.com^
+||ads.tiktok.com^
+||ads.tiktokv.com^
+||ads.yahoo.com^
+||adservice.google.co^
+||adservice.google.com^
+||adsx.unityads.unity3d.com^
+||adtilt.com^
+||advertising.apple.com^
+||analytics.pinterest.com^
+||analytics.snapchat.com^
+||analytics.yahoo.com^
+||api.adcolony.com^
+||api.revenuecat.com^
+||api.tapjoy.com^
+||api.vungle.com^
+||applovin.com^
+||appnext.com^
+||assets.applovin.com^
+||auction-banner.unityads.unity3d.com^
+||auction.unityads.unity3d.com^
+||chartboost.com^
+||config.unityads.unity3d.com^
+||d.applovin.com^
+||data.flurry.com^
 ||ec.atdmt.com^
+||events.redditmedia.com^
+||fls.doubleclick.net^
+||flurry.com^
+||gameadserver.com^
+||googleads.g.doubleclick.net^
+||googleadservices.com^
+||inmobi.com^
+||ironsrc.com^
+||live.chartboost.com^
+||mobvista.ai^
+||mobvista.com^
+||ms.applovin.com^
+||pagead2.googlesyndication.com^
+||partner.googleadservices.com^
+||px.ads.linkedin.com^
+||sdk.inmobi.com^
+||securepubads.g.doubleclick.net^
+||sonic-us.supersonicads.com^
+||ssp-events.chartboost.com^
+||startappservice.com^
+||stats.g.doubleclick.net^
+||supersonicads.com^
+||t.chartboost.com^
+||tapjoy.com^
+||tpat.api.vungle.com^
+||unityads.unity3d.com^
+||v2.chartboost.com^
+||vungle.com^
+||www.googleadservices.com^
