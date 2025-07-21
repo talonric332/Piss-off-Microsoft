@@ -1,4 +1,4 @@
-! Title: General Allowlist
+! Title: Common Services Allowlist
 ! Description: Allows common services including Amazon domains removed from the block lists.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
