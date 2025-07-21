@@ -19,7 +19,7 @@ Below is a brief description of each list provided in this repository and what i
 - **General_Blocking_Rules.txt** – A sampler platter of the biggest trackers from across the web—perfect for a no-fuss privacy boost.
 - **Samsung_Tracker_Blocklist_Cleaned.txt** – Tell your Galaxy phone to quit gossiping with Samsung's servers and enjoy some peace and quiet.
 - **Advertising_Network_Blocklist.txt** – Blocks Google ad servers, mobile game ad networks, and other major advertising networks.
-- **Core_Blocking_List.txt** – Blocks Microsoft telemetry and Google advertising domains without allowing anything through.
+- **Core_Blocking_List.txt** – Targets Microsoft telemetry hosts and Google ad servers while leaving standard services available.
 - **Adult_Content_Blocklist.txt** – Keeps your network squeaky clean by sweeping away domains you'd rather not explain to grandma.
 - **Google_Gemini_Blocklist.txt** – Targets the cosmic constellation of Gemini trackers so Google's AI can't follow you everywhere.
 - **Common_Services_Allowlist.txt** – Lets key domains like Amazon, GitHub, PayPal, Slack and Microsoft Office services through so your favorite sites keep working.
