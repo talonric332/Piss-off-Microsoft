@@ -2,7 +2,7 @@
 ! Description: Generic tracker domains aggregated from multiple sources.
 ! Version: 1.2.5
 ! License: CC0 / Public Domain
-! Last updated: 2025-07-10
+! Last updated: 2025-09-01
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 ||logs.netflix.com^
 ||www.google-analytics.com^
@@ -91,3 +91,31 @@
 ||dl.delivery.mp.microsoft.com^
 ||edge.activity.windows.com^
 ||msftconnecttest.com^
+! Merged from Core_Blocking_List.txt
+||pagead.l.doubleclick.net^
+||partnerad.l.doubleclick.net^
+||tpc.googlesyndication.com^
+||www.googletagservices.com^
+
+! Google Gemini / Bard endpoints
+||gemini.google.com^
+||gemini-content.google.com^
+||gemini-pa.clients6.google.com^
+||bard.google.com^
+||bard-content-paas.googleapis.com^
+||bard.googleusercontent.com^
+||gemini.googleusercontent.com^
+||bard-pa.clients6.google.com^
+||gstatic.com/gemini^
+||gstatic.com/bard^
+||assistant.google.com^
+||pa.clients6.google.com^
+||experiments-pa.googleapis.com^
+||bard-ui.l.google.com^
+||gemini-ui.l.google.com^
+||gemini-assistant-ui.l.google.com^
+||generativelanguage.googleapis.com^
+||chat-gemini-pa.googleapis.com^
+||gemini.googleapis.com^
+||gemini-pa.googleapis.com^
+||bard.googleapis.com^

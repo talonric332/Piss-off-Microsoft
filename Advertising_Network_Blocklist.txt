@@ -2,7 +2,7 @@
 ! Description: Blocks Google ad servers, mobile game ad networks, and other major advertising networks.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-07-20
+! Last updated: 2025-09-01
 ! Author: talonric332
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, and other adblock-compatible systems.
 
@@ -78,3 +78,22 @@
 ||v2.chartboost.com^
 ||vungle.com^
 ||www.googleadservices.com^
+! Merged from Core_Blocking_List.txt
+||ads.msn.com^
+||adnxs.com^
+||msedge.net^
+||edge-mqtt.microsoft.com^
+||c.bing.com^
+||rad.msn.com^
+||assets.msn.com^
+||g.msn.com^
+||nexusrules.officeapps.live.com^
+||browser.events.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||v10.events.data.microsoft.com^
+||telecommand.telemetry.microsoft.com^
+||watson.telemetry.microsoft.com^
+||pagead.l.doubleclick.net^
+||partnerad.l.doubleclick.net^
+||tpc.googlesyndication.com^
+||www.googletagservices.com^
