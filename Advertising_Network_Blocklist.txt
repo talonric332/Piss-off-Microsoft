@@ -83,6 +83,7 @@
 ||adnxs.com^
 ||msedge.net^
 ||edge-mqtt.microsoft.com^
+||bing.com^
 ||c.bing.com^
 ||rad.msn.com^
 ||assets.msn.com^
