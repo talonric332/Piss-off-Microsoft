@@ -1,8 +1,8 @@
 ! Title: Common Services Allowlist
-! Description: Allows common services including Amazon domains removed from the block lists.
+! Description: Allows common services spanning e-commerce, Meta, gaming, smart home, writing AI, and UniFi domains removed from the block lists.
 ! Homepage: https://github.com/talonric332/Piss-off-Microsoft
 ! License: CC0 / Public Domain
-! Last updated: 2025-07-10
+! Last updated: 2025-09-01
 ! Usage: Compatible with AdGuard Home, uBlock Origin, Pi-hole, etc.
 
 @@||amazonaws.com^
@@ -55,3 +55,132 @@
 @@||officeapps.live.com^
 @@||nexus.officeapps.live.com^
 @@||nexusrules.officeapps.live.com^
+
+! Meta Services
+@@||facebook.com^$important
+@@||fbcdn.net^$important
+@@||fb.com^$important
+@@||static.xx.fbcdn.net^$important
+@@||m.facebook.com^$important
+@@||graph.facebook.com^$important
+@@||connect.facebook.net^$important
+@@||upload.facebook.com^$important
+@@||edge-mqtt.facebook.com^$important
+@@||external.xx.fbcdn.net^$important
+@@||scontent.xx.fbcdn.net^$important
+@@||messenger.com^$important
+@@||instagram.com^$important
+@@||l.instagram.com^$important
+@@||whatsapp.com^$important
+@@||threads.net^$important
+@@||facebook.net^$important
+
+! Home Automation
+@@||api.ring.com^
+@@||lennoxicomfort.com^
+@@||api.lennoxiot.com^
+@@||firebaseio.com^
+@@||twilio.com^
+@@||tplinkcloud.com^
+@@||tp-link.com^
+@@||events.launchdarkly.com^
+@@||click.redditmail.com^
+@@||rewards.bing.com^$important
+@@||app.ring.com^
+@@||nest.com^
+@@||dropcam.com^
+@@||ecobee.com^
+@@||myqservice.com^
+@@||wyze.com^
+@@||ifttt.com^
+@@||homeassistant.io^
+@@||home-assistant.io^
+@@||smartthings.com^
+@@||geappliances.com^
+@@||geappliances.io^
+@@||smarthq.com^
+@@||smarthqhome.com^
+@@||smarthqservice.com^
+@@||smarthqsolutions.com^
+@@||smarthqpro.com^
+
+! Gaming Platforms
+@@||roblox.com^
+@@||robloxusercontent.com^
+@@||rbxcdn.com^
+@@||minecraft.net^
+@@||mojang.com^
+@@||rockstargames.com^
+@@||socialclub.rockstargames.com^
+@@||steamcommunity.com^
+@@||steamcontent.com^
+@@||xboxlive.com^
+@@||playstation.net^
+@@||nintendo.net^
+@@||epicgames.com^
+@@||ea.com^
+@@||battle.net^
+@@||riotgames.com^
+@@||fortnite.com^
+@@||leagueoflegends.com^
+
+! UniFi Controller
+@@||unifi.ui.com^
+@@||network.unifi.ui.com^
+@@||unifi-network.ui.com^
+@@||unifi-cloudkey.ui.com^
+@@||dl.ui.com^
+@@||fw.ui.com^
+@@||firmware.ui.com^
+@@||accounts.ui.com^
+@@||account.ui.com^
+@@||identity.ui.com^
+@@||login.ui.com^
+@@||connect.ui.com^
+@@||video.ui.com^
+@@||protect.ui.com^
+@@||gw.ui.com^
+@@||map.ui.com^
+@@||telemetry.ui.com^
+@@||unifi.ubnt.com^
+@@||dl.ubnt.com^
+@@||community.ui.com^
+@@||community.ubnt.com^
+@@||help.ui.com^
+@@||unifi^
+@@||unifi.local^
+@@||unifi.lan^
+@@||ubnt^
+@@||ubnt.local^
+@@||ubnt.lan^
+
+! Writing AI Tools
+@@||grammarly.com^
+@@||grammarly.io^
+@@||quillbot.com^
+@@||openai.com^
+@@||chat.openai.com^
+@@||api.openai.com^
+@@||jasper.ai^
+@@||claude.ai^
+@@||copy.ai^
+@@||writesonic.com^
+@@||anyword.com^
+@@||wordtune.com^
+@@||notion.so^
+@@||notion.com^
+@@||rytr.me^
+@@||inkforall.com^
+@@||texta.ai^
+@@||hyperwriteai.com^
+@@||writer.com^
+@@||languagetool.org^
+@@||languagetoolplus.com^
+@@||prowritingaid.com^
+@@||gingersoftware.com^
+@@||slickwrite.com^
+@@||surferseo.com^
+@@||seowriting.ai^
+@@||deepai.org^
+@@||copysmith.ai^
+
